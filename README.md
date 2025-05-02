@@ -16,7 +16,7 @@ Altogether, generative AI holds promise for improving educational, text-based ga
 
 ## About the Code Used in This Study
 
-The AI model developed in this study was trained on a Fortran-based version (March 31, 1977) of *Adventure*. (While the title *Colossal Cave Adventure* technically refers to a later iteration, it is used throughout this study for simplicity, as it is the name more widely recognized.) This implementation served as the model’s “knowledge source” for emulation and interaction.
+The AI model developed in this study was trained on a Fortran-based version (March 31, 1977) of *Adventure*. (While the title, *Colossal Cave Adventure*, technically refers to a later iteration, it is used throughout this study for simplicity, as it is the name more widely recognized.) This implementation served as the model’s “knowledge source” for emulation and interaction.
 
 This repository ([https://github.com/boaventuraD/adventure](https://github.com/boaventuraD/adventure)) is a fork of the original project ([https://github.com/wh0am1-dev/adventure](https://github.com/wh0am1-dev/adventure)), created to ensure long-term accessibility should the original become unavailable.
 
@@ -28,6 +28,6 @@ This project follows the licensing terms of the original repository and is there
 
 ---
 
-## Acknowledgements
+## Acknowledgments
 
 Special thanks to [@wh0am1-dev](https://github.com/wh0am1-dev) for their efforts in compiling the original codebase, and to the open-source community for preserving classic games like *Adventure*.
